@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vrspaces_live/static/css/main.e5cdda46.css",
-    "main.js": "/vrspaces_live/static/js/main.e1c6dd78.js",
+    "main.js": "/vrspaces_live/static/js/main.bb37c755.js",
     "static/js/453.b62fc02e.chunk.js": "/vrspaces_live/static/js/453.b62fc02e.chunk.js",
     "index.html": "/vrspaces_live/index.html",
     "main.e5cdda46.css.map": "/vrspaces_live/static/css/main.e5cdda46.css.map",
-    "main.e1c6dd78.js.map": "/vrspaces_live/static/js/main.e1c6dd78.js.map",
+    "main.bb37c755.js.map": "/vrspaces_live/static/js/main.bb37c755.js.map",
     "453.b62fc02e.chunk.js.map": "/vrspaces_live/static/js/453.b62fc02e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5cdda46.css",
-    "static/js/main.e1c6dd78.js"
+    "static/js/main.bb37c755.js"
   ]
 }
