@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vrspaces_live/static/css/main.e5cdda46.css",
-    "main.js": "/vrspaces_live/static/js/main.686ebf97.js",
-    "static/js/453.639a266b.chunk.js": "/vrspaces_live/static/js/453.639a266b.chunk.js",
+    "main.css": "/vrspaces_live/static/css/main.200acca8.css",
+    "main.js": "/vrspaces_live/static/js/main.0f1be699.js",
+    "static/js/453.0e4cd719.chunk.js": "/vrspaces_live/static/js/453.0e4cd719.chunk.js",
     "index.html": "/vrspaces_live/index.html",
-    "main.e5cdda46.css.map": "/vrspaces_live/static/css/main.e5cdda46.css.map",
-    "main.686ebf97.js.map": "/vrspaces_live/static/js/main.686ebf97.js.map",
-    "453.639a266b.chunk.js.map": "/vrspaces_live/static/js/453.639a266b.chunk.js.map"
+    "main.200acca8.css.map": "/vrspaces_live/static/css/main.200acca8.css.map",
+    "main.0f1be699.js.map": "/vrspaces_live/static/js/main.0f1be699.js.map",
+    "453.0e4cd719.chunk.js.map": "/vrspaces_live/static/js/453.0e4cd719.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5cdda46.css",
-    "static/js/main.686ebf97.js"
+    "static/css/main.200acca8.css",
+    "static/js/main.0f1be699.js"
   ]
 }
